@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aliwahid
+👋 Hi, I’m @aliwahid
 🤔   Exploring new technologies and developing software solutions and quick hacks.
 🎓   BS(CS) from CUI
 💼   Working as a Web Developer.
